@@ -1,5 +1,7 @@
 @import '@fortawesome/fontawesome-free/css/all.css';
 
+
+
 .bg-secondary {
     background-color: #f7fafc !important;
 }
@@ -23,7 +25,6 @@
 .main-content {
     margin-top: 3%;
     margin-bottom: 3%;
-    width: 80vw;
 }
 
 .card-header {
@@ -33,7 +34,14 @@
     background-color: #fff;
 }
 
+.cardIn {
+    min-width: 750px;
+}
 
+.cardOut {
+    min-width: 400px;
+    background-color: white;
+}
 
 .bg-secondary {
     background-color: #f7fafc !important;
